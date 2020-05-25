@@ -1,0 +1,2 @@
+# Worked-on-Sales-Project-Dataset-on-Diffrent-following-Topic
+Tableau Public https://public.tableau.com/profile/muzamil6628#!/vizhome/tuts121314/Dashboard1  Sets and Calculations, Top N Analysis and Sorting, Parameters, Dynamic calculation, Histogram using Bins, Word Cloud and Bubble chart, Reference Lines-Bands-Box, Working with Maps, Plotting Shapes on map, Creating Dashboards, Creating Stories, And also Publishing my Project to Tableau Public Profile
